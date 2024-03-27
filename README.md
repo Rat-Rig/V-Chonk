@@ -3,7 +3,7 @@
 </a>
 
 # Rat Rig V-Chonk v0.2 BETA
-![](https://github.com/Rat-Rig/V-Chonk/raw/main/assets/v-chonk-v0.2.png)
+![](https://github.com/Rat-Rig/V-Chonk/raw/main/assets/v-chonk-v0.2.jpg)
 
 ## Overview
 The Rat Rig V-Chonk is an almost fully 3D printed 3D printer, featuring a CoreXY design and a cubic build volume of 180mm<sup>3</sup>
