@@ -10,6 +10,9 @@ The Rat Rig V-Chonk is an almost fully 3D printed 3D printer, featuring a CoreXY
 
 Full details can be found via [the Rat Rig store](https://ratrig.com/v-chonk-configurable.html)
 
+## Online CAD Viewer
+The CAD model for V-Chonk is available to view via the [Rat Rig Fusion online viewer](https://a360.co/3HEgKIp)
+
 ## Contributing
 This is a fully open source project! We encourage the community at large to mod, upgrade, and share their design variants.
 
