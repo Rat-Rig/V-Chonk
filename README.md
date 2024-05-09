@@ -2,7 +2,7 @@
     <img src="https://ratrig.com/media/athlete2/default/RR_Logo_White.png" alt="RatRig logo" title="RatRig" height="74" />
 </a>
 
-# Rat Rig V-Chonk v0.3 BETA
+# Rat Rig V-Chonk v0.31 BETA
 ![](https://github.com/Rat-Rig/V-Chonk/raw/main/assets/v-chonk-v0.2.jpg)
 
 ## Overview
